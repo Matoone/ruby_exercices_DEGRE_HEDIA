@@ -7,3 +7,4 @@ puts "Voici la super-mega-trop-bien pyramide: "
 n.times do |i|
   puts "#"*(i+1)
 end
+# dejà fait avec la méthode while dans l'exo 20 donc on utilise ici la méthode .times
